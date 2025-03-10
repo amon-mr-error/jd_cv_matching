@@ -1,8 +1,4 @@
-Below is a sample README.md file that you can include in your GitHub repository. It documents the purpose, features, architecture, workflow, installation, and usage of your JD/CV Matching project. You can modify and expand these sections as needed.
 
----
-
-```markdown
 # JD/CV Matching System
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-brightgreen)](https://jdcvmatching-jbcmtsfkcuw6p5tw69pqzn.streamlit.app/)
