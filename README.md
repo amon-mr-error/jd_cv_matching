@@ -156,8 +156,5 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 
 ## Contact
 
-For questions or suggestions, please open an issue in this repository or contact me directly at [your-email@example.com](mailto:kes.karna12@gmail.com).
-
----
-
+For questions or suggestions, please open an issue in this repository or contact me directly at [kes.karna12@gmail.com](mailto:your-email@example.com).
 
