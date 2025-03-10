@@ -1,0 +1,7 @@
+Candidate: Marketing_Exec_CV.docx
+Match Score: 53.1%
+Skills Matched: 
+Missing Skills: html, xml, javascript, css, sql
+Experience: 3 years of experience
+Role Fit: 97.8%
+-----------------------------

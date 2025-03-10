@@ -8,7 +8,9 @@ class FileParser:
         text = ""
         pdf_reader = PyPDF2.PdfReader(file)
         for page in pdf_reader.pages:
-            text += page.extract_text()
+            page_text = page.extract_text()
+            if page_text:
+                text += page_text
         return text
 
     @staticmethod
