@@ -55,7 +55,7 @@ if jd_file and cv_files:
     st.subheader("Candidate Rankings")
     df = pd.DataFrame([{
         'Candidate': r['name'],
-        'Match Score': f"{1.2*r['final_score']:.1f}%",
+        'Match Score': f"{1.2 * r.get('final_score', 0):.1f}%",
         'Skills Matched': ", ".join(r['skills_matched']),
         'Experience Details': "; ".join(r['experience'])
     } for r in rankings])
