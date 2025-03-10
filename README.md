@@ -153,14 +153,11 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 4. Push to your branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or suggestions, please open an issue in this repository or contact me directly at [your-email@example.com](mailto:your-email@example.com).
+For questions or suggestions, please open an issue in this repository or contact me directly at [your-email@example.com](mailto:kes.karna12@gmail.com).
 
 ---
 
-Feel free to adjust the content to match any specific details or additional instructions for your project. This README should provide a clear and complete documentation of your project’s documentation and workflow for both contributors and end-users.
+
